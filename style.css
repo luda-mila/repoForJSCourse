@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    font-family: sans-serif;
+}
+.fruits-container {
+    display: flex;
+}
+
+.fruits {
+    margin-right: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px 20px 10px;
+    min-width: 400px;
+}
+
+.green {
+    color: mediumseagreen;
+}
+
+.red {
+    color: lightcoral;
+}
